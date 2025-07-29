@@ -181,7 +181,7 @@ All user input is validated on the frontend, re-validated on the backend, and en
 ## 🗂️ Credits
 
 Built by **Shashank Kote**.  
-For questions, issues, or contributions, open an Issue or Pull Request on [GitHub](https://github.com/your-username/sports-management-system).
+For questions, issues, or contributions, open an Issue or Pull Request on [GitHub](https://github.com/skote05/sports-management-system-deploy).
 
 ---
 
